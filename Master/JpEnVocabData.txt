@@ -1,0 +1,171 @@
+0,JEVCh6,おはようございます,good morning,0,/,/
+1,JEVCh6,こんにちは,good afternoon,0,/,/
+2,JEVCh6,こんばんは,good evening,0,/,/
+3,JEVCh6,おやすみなさい,good night,0,/,/
+4,JEVCh6,どうもありがとうございます,thank you,0,/,/
+5,JEVCh6,どういたしまして,you're welcome,0,/,/
+6,JEVCh6,はじめまして,nice to meet you (in the beginning),0,/,/
+7,JEVCh6,どうぞよろしくお願いします「どうぞよろしくおねがいします」,nice to meet you (thanks in advance),0,/,/
+8,JEVCh6,お辞儀「おじぎ」,bowing,0,/,/
+9,JEVCh6,お名前「おなまえ」,(your) name,0,/,/
+10,JEVCh6,お名前はなんですか「おなまえはなんですか」,What is your name?,0,/,/
+11,JEVCh6,元気「げんき」,health,0,/,/
+12,JEVCh6,お元気ですか「おげんきですか」,How are you?,0,/,/
+13,JEVCh6,はい,yes,0,/,/
+14,JEVCh6,いいえ,no,0,/,/
+15,JEVCh6,人～「じん～」,a person from ~ ,0,/,/
+16,JEVCh7,犬「いぬ」,dog,0,/,/
+17,JEVCh7,猫「ねこ」,cat,0,/,/
+18,JEVCh7,りんご,apple,0,/,/
+19,JEVCh7,水「みず」,water,0,/,/
+20,JEVCh7,鳥「とり」,bird,0,/,/
+21,JEVCh7,馬「うま」,horse,0,/,/
+22,JEVCh7,鉛筆「えんぴつ」,pencil,0,/,/
+23,JEVCh7,ペン,pen,0,/,/
+24,JEVCh7,です,to be (positive) (present),0,/,/
+25,JEVCh7,でした,to be (positive) (past),0,/,/
+26,JEVCh7,ではありません,to be (negative) (present) (formal),0,/,/
+27,JEVCh7,ではありませんでした,to be (negative) (past) (formal),0,/,/
+28,JEVCh7,じゃない,to be (negative) (present) (most casual),0,/,/
+29,JEVCh7,ではない,to be (negative) (present) (slightly casual),0,/,/
+30,JEVCh7,でしょう,it will probably be/it is probably,0,/,/
+31,JEVCh8,家「いえ」,house,0,/,/
+32,JEVCh8,部屋「へや」,room,0,/,/
+33,JEVCh8,居間「いま」,living room,0,/,/
+34,JEVCh8,台所「だいどころ」,kitchen,0,/,/
+35,JEVCh8,冷蔵庫「れいぞうこ」,fridge,0,/,/
+36,JEVCh8,お手洗い「おてあらい」,bathroom (polite),0,/,/
+37,JEVCh8,トイレ,toilet/bathroom,0,/,/
+38,JEVCh8,流し台「ながしだい」,sink,0,/,/
+39,JEVCh8,お風呂場「おふろば」,bath room,0,/,/
+40,JEVCh8,屋根「やね」,roof,0,/,/
+41,JEVCh8,天井「てんじょう」,ceiling,0,/,/
+42,JEVCh8,壁「かべ」,wall,0,/,/
+43,JEVCh8,床「ゆか」,hardwood floor,0,/,/
+44,JEVCh8,ドア,door,0,/,/
+45,JEVCh8,窓「まど」,window,0,/,/
+46,JEVCh8,本「ほん」,book,0,/,/
+47,JEVCh8,本棚「ほんだな」,bookshelf,0,/,/
+48,JEVCh8,椅子「いす」,chair,0,/,/
+49,JEVCh8,時計「とけい」,watch/clock,0,/,/
+50,JEVCh8,テーブル,table,0,/,/
+51,JEVCh8,ベッド,bed,0,/,/
+52,JEVCh8,テレビ,TV,0,/,/
+53,JEVCh8,ラジオ,radio,0,/,/
+54,JEVCh8,エアコン,air conditioning (AC),0,/,/
+55,JEVCh8,和室「わしつ」,traditional Japanese room,0,/,/
+56,JEVCh8,畳「たたみ」,tatami (woven straw mats),0,/,/
+57,JEVCh8,襖「ふすま」,Japanese sliding screens,0,/,/
+58,JEVCh8,障子「しょうじ」,Japanese paper sliding doors,0,/,/
+59,JEVCh8,欄間「らんま」,Japanese transom,0,/,/
+60,JEVCh8,床の間「とこのま」,Japanese alcove,0,/,/
+61,JEVCh8,違い棚「ちがいだな」,Japanese staggered shelves,0,/,/
+62,JEVCh8,こたつ,Japanese low table with quilt and heater (kotatsu),0,/,/
+63,JEVCh8,座布団「ざぶとん」,floor cushion,0,/,/
+64,JEVCh8,布団「ふとん」,Japanese bedding (futon),0,/,/
+65,JEVCh8,掛け軸「かけじく」,Japanese hanging scroll,0,/,/
+66,JEVCh8,皿「さら」,plate,0,/,/
+67,JEVCh8,茶碗「ちゃわん」,rice bowl/tea bowl,0,/,/
+68,JEVCh8,コップ,cup,0,/,/
+69,JEVCh8,お箸「おはし」,chopsticks,0,/,/
+70,JEVCh8,フォーク｜オウク,fork,0,/,/
+71,JEVCh8,スプーン,spoon,0,/,/
+72,JEVCh8,ナイフ,knife,0,/,/
+73,JEVCh8,カウチ,couch,0,/,/
+74,JEVCh8,コンピュータ,computer,0,/,/
+75,JEVCh9,一「いち」,1,0,/,/
+76,JEVCh9,二「に」,2,0,/,/
+77,JEVCh9,三「さん」,3,0,/,/
+78,JEVCh9,四「し・よん」,4,0,/,/
+79,JEVCh9,五「ご」,5,0,/,/
+80,JEVCh9,六「ろく」,6,0,/,/
+81,JEVCh9,七「しち・なな」,7,0,/,/
+82,JEVCh9,八「はち」,8,0,/,/
+83,JEVCh9,九「きゅう・く」,9,0,/,/
+84,JEVCh9,十「じゅう」,10,0,/,/
+85,JEVCh9,百「ひゃく」,100,0,/,/
+86,JEVCh9,千「せん」,1000,0,/,/
+87,JEVCh9,万「まん」,10、000,0,/,/
+88,JEVCh9,億「おく」,100、000、000,0,/,/
+89,JEVCh9,兆「ちょう」,1、000、000、000、000,0,/,/
+90,JEVCh9,京「けい」,10、000、000、000、000、000,0,/,/
+91,JEVCh9,零「れい・ゼロ・マル」,0,0,/,/
+92,JEVCh10,今日「きょう」,today,0,/,/
+93,JEVCh10,昨日「きのう」,yesterday,0,/,/
+94,JEVCh10,明日「あした」,tomorrow,0,/,/
+95,JEVCh10,一昨日「おととい」,the day before yesterday,0,/,/
+96,JEVCh10,明後日「あさって」,the day after tomorrow,0,/,/
+97,JEVCh10,今朝「けさ」,this morning,0,/,/
+98,JEVCh10,夜「よる」,night,0,/,/
+99,JEVCh10,夕べ・昨夜「ゆうべ」,last night,0,/,/
+100,JEVCh10,日曜日「にちようび」,Sunday,0,/,/
+101,JEVCh10,月曜日「げつようび」,Monday,0,/,/
+102,JEVCh10,火曜日「かようび」,Tuesday,0,/,/
+103,JEVCh10,水曜日「すいようび」,Wednesday,0,/,/
+104,JEVCh10,木曜日「もくようび」,Thursday,0,/,/
+105,JEVCh10,金曜日「きんようび」,Friday,0,/,/
+106,JEVCh10,土曜日「どようび」,Saturday,0,/,/
+107,JEVCh10,先週「せんしゅう」,last week,0,/,/
+108,JEVCh10,今週「こんしゅう」,this week,0,/,/
+109,JEVCh10,来週「らいしゅう」,next week,0,/,/
+110,JEVCh10,先々週「せんせんしゅう」,the week before the last; last last week,0,/,/
+111,JEVCh10,再来週「さらいしゅう」,the week after the next; next next week,0,/,/
+112,JEVCh10,先月「せんげつ」,last month,0,/,/
+113,JEVCh10,今月「こんげつ」,this month,0,/,/
+114,JEVCh10,来月「らいげつ」,next month,0,/,/
+115,JEVCh10,先々月「せんせんげつ」,the month before the last; last last month,0,/,/
+116,JEVCh10,再来月「さらいげつ」,the month after the next; next next month,0,/,/
+117,JEVCh10,一月「いちがつ」,January,0,/,/
+118,JEVCh10,二月「にがつ」,February,0,/,/
+119,JEVCh10,三月「さんがつ」,March,0,/,/
+120,JEVCh10,四月「しがつ」,April,0,/,/
+121,JEVCh10,五月「ごがつ」,May,0,/,/
+122,JEVCh10,六月「ろくがつ」,June,0,/,/
+123,JEVCh10,七月「しちがつ」,July,0,/,/
+124,JEVCh10,八月「はちがつ」,August,0,/,/
+125,JEVCh10,九月「くがつ」,September,0,/,/
+126,JEVCh10,十月「じゅうがつ」,October,0,/,/
+127,JEVCh10,十一月「じゅういちがつ」,November,0,/,/
+128,JEVCh10,十二月「じゅうにがつ」,December,0,/,/
+129,JEVCh10,去年「きょねん」,last year,0,/,/
+130,JEVCh10,今年「ことし」,this year,0,/,/
+131,JEVCh10,来年「らいねん」,next year,0,/,/
+132,JEVCh10,一昨年「おととし」,the year before the last; last last year,0,/,/
+133,JEVCh10,再来年「さらいねん」,the year after the next; next next year,0,/,/
+134,JEVCh10,毎日「まいにち」,every day,0,/,/
+135,JEVCh10,毎週「まいしゅう」,every week,0,/,/
+136,JEVCh10,毎月「まいつき」,every month,0,/,/
+137,JEVCh10,毎年「まいとし」,every year,0,/,/
+138,JEVCh10,冬「ふゆ」,winter,0,/,/
+139,JEVCh10,春「はる」,spring,0,/,/
+140,JEVCh10,夏「なつ」,summer,0,/,/
+141,JEVCh10,秋「あき」,fall,0,/,/
+142,JEVCh10,良い「いい」,good,0,/,/
+143,JEVCh10,お天気「おてんき」,weather,0,/,/
+144,JEVCh10,公園「こうえん」,park,0,/,/
+145,JEVCh10,～ね,agreement seeker,0,/,/
+146,JEVCh12,行ってきます「いってきます」,I'm off! (Said when leaving home),0,/,/
+147,JEVCh12,行ってらっしゃい「いってらっしゃい」,See you when you get home! (Said to person leaving home),0,/,/
+148,JEVCh12,ただいま,I'm home! (Said when you get home),0,/,/
+149,JEVCh12,お帰りなさい「おかえりなさい」,Welcome back! (Said to person returning home),0,/,/
+150,JEVCh12,おやすみなさい,good night (farwell),0,/,/
+151,JEVCh12,すみません,I'm sorry; I beg your pardon (used to get someone's attention),0,/,/
+152,JEVCh12,失礼します「しつれいします」,excuse me (preface to something rude),0,/,/
+153,JEVCh12,さよなら,serious goodbye,0,/,/
+154,JEVCh12,では,well then... (time to go; better get going),0,/,/
+155,JEVCh12,じゃ、また,See you later!,0,/,/
+156,JEVCh12,またね,Later!,0,/,/
+157,JEVCh12,じゃあね,See you!,0,/,/
+158,JEVCh13,そう,that way; so,0,/,/
+159,JEVCh13,何「なん・なに」,what,0,/,/
+160,JEVCh13,はい、そうです。,Yes、that's so,0,/,/
+161,JEVCh16,普通列車「ふつうれっしゃ」,regular train; local train; train that stops at every station,0,/,/
+162,JEVCh16,各駅停車「かくえきていしゃ」,local train; train that stops at every station,0,/,/
+163,JEVCh16,快速列車「かいそくれっしゃ」,rapid train,0,/,/
+164,JEVCh16,急行列車「きゅうこうれっしゃ」,express train,0,/,/
+165,JEVCh16,特急列車「とっきゅうれっしゃ」,limited express train,0,/,/
+166,JEVCh16,新幹線「しんかんせん」,bullet train; high speed rail (shinkansen),0,/,/
+167,JEVCh16,普通車「ふつうしゃ」,regular car; regular cabin,0,/,/
+168,JEVCh16,グリーン車「グリーンしゃ」,green car; green cabin,0,/,/
+169,JEVCh16,自由席「じゆうせき」,non-reserved seating,0,/,/
+170,JEVCh16,指定席「していせき」,reserved seating,0,/,/

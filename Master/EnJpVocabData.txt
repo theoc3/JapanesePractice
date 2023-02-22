@@ -1,0 +1,212 @@
+0,EJVCh6,good morning,おはようございます,5,/~2.88998,/
+1,EJVCh6,good afternoon,こんにちは,5,/~5.14523,/
+2,EJVCh6,good evening,こんばんは,0,/,/
+3,EJVCh6,good night,おやすみなさい,0,/,/
+4,EJVCh6,thank you,どうもありがとうございます,5,/~6.61931,/
+5,EJVCh6,you're welcome,どういたしまして,20,/~3.69199~6.28283~4.75257~3.12668,/~7.26852
+6,EJVCh6,nice to meet you (in the beginning),はじめまして,5,/~3.06581,/
+7,EJVCh6,nice to meet you (thanks in advance),どうぞよろしくお願いします「どうぞよろしくおねがいします」,0,/,/
+8,EJVCh6,bowing,お辞儀「おじぎ」,5,/~8.65172,/
+9,EJVCh6,(your) name,お名前「おなまえ」,5,/~4.20882,/
+10,EJVCh6,What is your name?,お名前はなんですか「おなまえはなんですか」,0,/,/
+11,EJVCh6,health,元気「げんき」,5,/~5.28294,/
+12,EJVCh6,How are you?,お元気ですか「おげんきですか」,5,/~4.69671,/
+13,EJVCh6,yes,はい,5,/~2.98412,/
+14,EJVCh6,no,いいえ,0,/,/
+15,EJVCh6,a person from ~ ,人～「じん～」,15,/~4.43507~2.34619~1.86632,/
+16,EJVCh7,dog,犬「いぬ」,0,/,/
+17,EJVCh7,cat,猫「ねこ」,5,/~2.27099,/
+18,EJVCh7,apple,りんご,5,/~8.15942,/
+19,EJVCh7,water,水「みず」,10,/~3.03853~2.32709,/
+20,EJVCh7,bird,鳥「とり」,0,/,/
+21,EJVCh7,horse,馬「うま」,0,/,/~4.11992
+22,EJVCh7,pencil,鉛筆「えんぴつ」,10,/~4.73413~3.93754,/
+23,EJVCh7,pen,ペン,0,/,/~2.80638
+24,EJVCh7,to be (positive) (present),です,0,/,/
+25,EJVCh7,to be (positive) (past),でした,0,/,/
+26,EJVCh7,to be (negative) (present) (formal),ではありません,0,/,/
+27,EJVCh7,to be (negative) (past) (formal),ではありませんでした,0,/,/
+28,EJVCh7,to be (negative) (present) (most casual),じゃない,5,/~4.07542,/
+29,EJVCh7,to be (negative) (present) (slightly casual),ではない,0,/,/~13.59342~6.64785
+30,EJVCh7,it will probably be/it is probably,でしょう,0,/,/
+31,EJVCh8,house,家「いえ」,15,/~3.01331~1.40661~2.14509,/
+32,EJVCh8,room,部屋「へや」,5,/~1.84573,/
+33,EJVCh8,living room,居間「いま」,10,/~2.97822~4.93184,/
+34,EJVCh8,kitchen,台所「だいどころ」,5,/~4.34135,/
+35,EJVCh8,fridge,冷蔵庫「れいぞうこ」,0,/,/~7.39122~2.99693
+36,EJVCh8,bathroom (polite),お手洗い「おてあらい」,0,/~10.32907~4.97411,/~3.02178
+37,EJVCh8,toilet/bathroom,トイレ,5,/~5.18315,/
+38,EJVCh8,sink,流し台「ながしだい」,0,/,/
+39,EJVCh8,bath room,お風呂場「おふろば」,10,/~4.99629~2.94015,/
+40,EJVCh8,roof,屋根「やね」,0,/,/~9.21111~3.21769
+41,EJVCh8,ceiling,天井「てんじょう」,0,/~5.3071,/~4.93759
+42,EJVCh8,wall,壁「かべ」,15,/~3.1728~1.7825~1.79165,/
+43,EJVCh8,hardwood floor,床「ゆか」,5,/~2.45857,/~8.855
+44,EJVCh8,door,ドア,5,/~3.9962,/
+45,EJVCh8,window,窓「まど」,15,/~5.34848~3.08642~3.08524,/
+46,EJVCh8,book,本「ほん」,10,/~6.05201~3.01844,/
+47,EJVCh8,bookshelf,本棚「ほんだな」,10,/~5.90293~3.15782,/
+48,EJVCh8,chair,椅子「いす」,10,/~3.15802~2.49795,/
+49,EJVCh8,watch/clock,時計「とけい」,10,/~1.90355~2.7137,/
+50,EJVCh8,table,テーブル,0,/,/~19.52216
+51,EJVCh8,bed,ベッド,5,/~5.43642,/~2.84593
+52,EJVCh8,TV,テレビ,10,/~3.61251~3.80438,/
+53,EJVCh8,radio,ラジオ,10,/~4.8911~2.9482,/
+54,EJVCh8,air conditioning (AC),エアコン,5,/~3.39646,/
+55,EJVCh8,traditional Japanese room,和室「わしつ」,0,/~9.0363,/~8.11571~6.832
+56,EJVCh8,tatami (woven straw mats),畳「たたみ」,10,/~11.26973~2.69622,/
+57,EJVCh8,Japanese sliding screens,襖「ふすま」,0,/,/~5.45074~6.30998
+58,EJVCh8,Japanese paper sliding doors,障子「しょうじ」,5,/~6.26969,/
+59,EJVCh8,Japanese transom,欄間「らんま」,0,/~2.53809,/~2.19287~3.32212~8.25478
+60,EJVCh8,Japanese alcove,床の間「とこのま」,0,/,/~3.98018~5.0006~6.9811~11.1341
+61,EJVCh8,Japanese staggered shelves,違い棚「ちがいだな」,5,/~10.61538,/~4.8212
+62,EJVCh8,Japanese low table with quilt and heater (kotatsu),こたつ,5,/~2.92769,/
+63,EJVCh8,floor cushion,座布団「ざぶとん」,15,/~13.33628~9.3676~3.28792~6.94709,/~5.07899
+64,EJVCh8,Japanese bedding (futon),布団「ふとん」,5,/~3.38984,/
+65,EJVCh8,Japanese hanging scroll,掛け軸「かけじく」,0,/,/
+66,EJVCh8,plate,皿「さら」,5,/~3.21576,/
+67,EJVCh8,rice bowl/tea bowl,茶碗「ちゃわん」,5,/~3.46559,/
+68,EJVCh8,cup,コップ,5,/~7.90751,/
+69,EJVCh8,chopsticks,お箸「おはし」,10,/~9.9933~2.81141,/
+70,EJVCh8,fork,フォーク｜オウク,15,/~11.05033~16.25199~13.5481,/
+71,EJVCh8,spoon,スプーン,5,/~8.05145,/
+72,EJVCh8,knife,ナイフ,10,/~2.60984~2.33117,/
+73,EJVCh8,couch,カウチ,0,/,/
+74,EJVCh8,computer,コンピュータ,0,/,/
+75,EJVCh9,1,一「いち」,0,/,/
+76,EJVCh9,2,二「に」,0,/,/
+77,EJVCh9,3,三「さん」,5,/~2.05254,/
+78,EJVCh9,4,四「し・よん」,15,/~1.87968~2.43898~3.89425,/
+79,EJVCh9,5,五「ご」,0,/,/
+80,EJVCh9,6,六「ろく」,10,/~2.60966~7.93121,/
+81,EJVCh9,7,七「しち・なな」,0,/,/
+82,EJVCh9,8,八「はち」,0,/,/
+83,EJVCh9,9,九「きゅう・く」,5,/~10.8326,/
+84,EJVCh9,10,十「じゅう」,10,/~2.91318~1.87653,/
+85,EJVCh9,100,百「ひゃく」,0,/,/
+86,EJVCh9,1000,千「せん」,0,/,/
+87,EJVCh9,10、000,万「まん」,0,/,/
+88,EJVCh9,100、000、000,億「おく」,10,/~4.35514~6.44961,/
+89,EJVCh9,1、000、000、000、000,兆「ちょう」,10,/~13.38042~3.60324,/~6.00062~3.2671
+90,EJVCh9,10、000、000、000、000、000,京「けい」,0,/,/~2.8308
+91,EJVCh9,0,零「れい・ゼロ・マル」,0,/,/~9.21658
+92,EJVCh10,today,今日「きょう」,20,/~2.56565~15.55698~17.95794~2.32295,/
+93,EJVCh10,yesterday,昨日「きのう」,5,/~2.56191,/
+94,EJVCh10,tomorrow,明日「あした」,0,/,/
+95,EJVCh10,the day before yesterday,一昨日「おととい」,15,/~13.12346~6.43472~4.6791,/
+96,EJVCh10,the day after tomorrow,明後日「あさって」,0,/,/~30.89599
+97,EJVCh10,this morning,今朝「けさ」,5,/~4.38943,/
+98,EJVCh10,night,夜「よる」,10,/~2.07789~2.28228,/
+99,EJVCh10,last night,夕べ・昨夜「ゆうべ」,0,/,/~3.16125~10.48553
+100,EJVCh10,Sunday,日曜日「にちようび」,5,/~3.47691,/
+101,EJVCh10,Monday,月曜日「げつようび」,0,/,/
+102,EJVCh10,Tuesday,火曜日「かようび」,0,/,/
+103,EJVCh10,Wednesday,水曜日「すいようび」,5,/~4.84451,/
+104,EJVCh10,Thursday,木曜日「もくようび」,5,/~3.84997,/
+105,EJVCh10,Friday,金曜日「きんようび」,0,/,/
+106,EJVCh10,Saturday,土曜日「どようび」,15,/~4.2425~3.97758~3.8967,/
+107,EJVCh10,last week,先週「せんしゅう」,20,/~3.83024~5.64799~3.16902~4.20793,/
+108,EJVCh10,this week,今週「こんしゅう」,5,/~3.82971,/
+109,EJVCh10,next week,来週「らいしゅう」,5,/~11.56401,/
+110,EJVCh10,the week before the last; last last week,先々週「せんせんしゅう」,10,/~6.14451~3.43578,/
+111,EJVCh10,the week after the next; next next week,再来週「さらいしゅう」,10,/~4.92541~4.4634,/
+112,EJVCh10,last month,先月「せんげつ」,0,/,/
+113,EJVCh10,this month,今月「こんげつ」,10,/~6.42627~4.0105,/
+114,EJVCh10,next month,来月「らいげつ」,10,/~3.89557~8.5614,/
+115,EJVCh10,the month before the last; last last month,先々月「せんせんげつ」,10,/~11.08007~8.62598,/
+116,EJVCh10,the month after the next; next next month,再来月「さらいげつ」,0,/,/
+117,EJVCh10,January,一月「いちがつ」,10,/~4.61628~3.13061,/
+118,EJVCh10,February,二月「にがつ」,15,/~7.09381~12.85307~5.40673,/
+119,EJVCh10,March,三月「さんがつ」,5,/~7.35427,/
+120,EJVCh10,April,四月「しがつ」,0,/,/~4.50784
+121,EJVCh10,May,五月「ごがつ」,5,/~3.74866,/
+122,EJVCh10,June,六月「ろくがつ」,20,/~7.23481~3.2792~5.18788~2.709,/
+123,EJVCh10,July,七月「しちがつ」,0,/,/
+124,EJVCh10,August,八月「はちがつ」,5,/~6.72217,/
+125,EJVCh10,September,九月「くがつ」,0,/,/
+126,EJVCh10,October,十月「じゅうがつ」,20,/~5.8079~6.28587~4.09115~3.77635,/
+127,EJVCh10,November,十一月「じゅういちがつ」,0,/,/
+128,EJVCh10,December,十二月「じゅうにがつ」,0,/,/
+129,EJVCh10,last year,去年「きょねん」,0,/,/~5.49422
+130,EJVCh10,this year,今年「ことし」,10,/~12.24762~8.2195,/
+131,EJVCh10,next year,来年「らいねん」,0,/,/
+132,EJVCh10,the year before the last; last last year,一昨年「おととし」,10,/~7.57416~4.86359,/
+133,EJVCh10,the year after the next; next next year,再来年「さらいねん」,15,/~5.50383~6.11482~8.96193,/
+134,EJVCh10,every day,毎日「まいにち」,10,/~3.11096~2.90345,/
+135,EJVCh10,every week,毎週「まいしゅう」,10,/~3.06643~5.51017,/
+136,EJVCh10,every month,毎月「まいつき」,0,/,/
+137,EJVCh10,every year,毎年「まいとし」,5,/~3.42039,/
+138,EJVCh10,winter,冬「ふゆ」,0,/,/
+139,EJVCh10,spring,春「はる」,0,/,/
+140,EJVCh10,summer,夏「なつ」,0,/,/
+141,EJVCh10,fall,秋「あき」,0,/,/
+142,EJVCh10,good,良い「いい」,5,/~2.44888,/
+143,EJVCh10,weather,お天気「おてんき」,0,/,/
+144,EJVCh10,park,公園「こうえん」,0,/,/
+145,EJVCh10,agreement seeker,～ね,10,/~2.83708~5.79252,/
+146,EJVCh12,I'm off! (Said when leaving home),行ってきます「いってきます」,0,/,/~5.95808
+147,EJVCh12,See you when you get home! (Said to person leaving home),行ってらっしゃい「いってらっしゃい」,0,/,/~7.16324
+148,EJVCh12,I'm home! (Said when you get home),ただいま,5,/~8.68809,/
+149,EJVCh12,Welcome back! (Said to person returning home),お帰りなさい「おかえりなさい」,5,/~3.80993,/
+150,EJVCh12,good night (farwell),おやすみなさい,0,/,/
+151,EJVCh12,I'm sorry; I beg your pardon (used to get someone's attention),すみません,0,/,/
+152,EJVCh12,excuse me (preface to something rude),失礼します「しつれいします」,0,/,/
+153,EJVCh12,serious goodbye,さよなら,0,/,/
+154,EJVCh12,well then... (time to go; better get going),では,0,/,/
+155,EJVCh12,See you later!,じゃ、また,0,/,/
+156,EJVCh12,Later!,またね,0,/,/~2.2098
+157,EJVCh12,See you!,じゃあね,5,/~3.90885,/~5.98182
+158,EJVCh13,that way; so,そう,10,/~2.61181~1.75748,/
+159,EJVCh13,what,何「なん・なに」,5,/~2.25794,/
+160,EJVCh13,Yes、that's so,はい、そうです。,5,/~5.10344,/
+161,EJVCh13,No、that's not so,いいえ、そうではありません。いいえ、そうじゃない。,0,/,/
+162,EJVCh13,No、that's not so,いいえ、そうではありません。いいえ、そうじゃない。,5,/~15.10059,/
+163,EJVCh14,store; shop,店「みせ」,0,/,/
+164,EJVCh14,restaurant,レストラン,0,/,/
+165,EJVCh14,supermarket,スーパーマーケット・スーパー,0,/,/
+166,EJVCh14,post office,郵便局「ゆうびんきょく」,0,/,/
+167,EJVCh14,train station,駅「えき」,0,/,/
+168,EJVCh14,convenience store,コンビニ,0,/~4.60393,/~3.46019
+169,EJVCh14,police box,交番「こうばん」,0,/,/
+170,EJVCh14,bank,銀行「ぎんこう」,10,/~7.87471~3.67278,/~4.5977
+171,EJVCh14,store suffix,～や,5,/~4.00299,/
+172,EJVCh14,bread,パン,0,/,/
+173,EJVCh14,store operator suffix,～やさん,5,/~9.416,/
+174,EJVCh14,tree/bush/wood,木「き」,5,/~3.01409,/
+175,EJVCh14,grass,草「くさ」,5,/~2.84754,/
+176,EJVCh14,flower/petal,花「はな」,5,/~1.8435,/
+177,EJVCh14,river,川「かわ」,0,/,/
+178,EJVCh14,lake,湖「みずうみ」,10,/~6.67967~8.30272,/
+179,EJVCh14,mountain,山「やま」,0,/,/
+180,EJVCh14,sky,空「そら」,0,/,/
+181,EJVCh14,cloud,雲「くも」,5,/~5.89705,/
+182,EJVCh14,rain,雨「あめ」,5,/~2.14135,/
+183,EJVCh14,bicycle,自転車「じてんしゃ」,0,/,/
+184,EJVCh14,motorcycle,バイク,0,/,/~7.71634
+185,EJVCh14,motorcycle (less common),オートバイ,0,/,/~17.01906
+186,EJVCh14,car,車「くるま」,10,/~4.33871~3.80385,/
+187,EJVCh14,taxi,タクシー,10,/~6.8111~3.62394~11.11343~6.23213,/~1.949
+188,EJVCh14,bus,バス,0,/,/
+189,EJVCh14,bus stop,バス停「バスてい」,0,/,/
+190,EJVCh14,train,電車「でんしゃ」,5,/~9.54791,/
+191,EJVCh14,subway,地下鉄「ちかてつ」,5,/~7.4386,/~3.91228
+192,EJVCh14,road,道「みち」,5,/~6.3665,/~5.89255
+193,EJVCh15,I/me (slightly formal or feminine),私「わたし」,0,/,/
+194,EJVCh15,you (traditionally: formal; equal/lower status - now: rude; distant),あなた,0,/,/
+195,EJVCh15,friend/companion,友達「ともだち」,0,/,/
+196,EJVCh15,person,人「ひと」,5,/~2.66353,/
+197,EJVCh15,that person/he/she,その人「そのひと」,0,/,/
+198,EJVCh15,pluralizer,～たち,5,/~3.66316,/
+199,EJVCh15,polite name suffix,～さん,5,/~2.39347,/
+200,EJVCh15,topic marker,は,5,/~2.80658,/
+201,EJVCh16,Japanese Railway Group (JR),日本鉄道「にっぽんてつどう・ジェイアル」,0,/,/~19.01567
+202,EJVCh16,regular train; local train; train that stops at every station,普通列車「ふつうれっしゃ」,5,/~19.78565,/
+203,EJVCh16,local train; train that stops at every station,各駅停車「かくえきていしゃ」,0,/,/
+204,EJVCh16,rapid train,快速列車「かいそくれっしゃ」,0,/,/
+205,EJVCh16,express train,急行列車「きゅうこうれっしゃ」,0,/,/
+206,EJVCh16,limited express train,特急列車「とっきゅうれっしゃ」,0,/,/
+207,EJVCh16,bullet train; high speed rail (shinkansen),新幹線「しんかんせん」,0,/,/
+208,EJVCh16,regular car; regular cabin,普通車「ふつうしゃ」,5,/~9.81736,/~12.43811
+209,EJVCh16,green car; green cabin,グリーン車「グリーンしゃ」,0,/,/
+210,EJVCh16,non-reserved seating,自由席「じゆうせき」,0,/,/
+211,EJVCh16,reserved seating,指定席「していせき」,10,/~16.5451~6.91916,/
